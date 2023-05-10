@@ -57,8 +57,7 @@
                 </requireMavenVersion>
               </rules>    
             </configuration>
-          </execution>
-        </executions>  
+      <plugin>  
 
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
