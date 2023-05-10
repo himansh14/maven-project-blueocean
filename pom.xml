@@ -41,15 +41,6 @@
       </plugin>   
              
       <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-enforcer-plugin</artifactId>
-        <configuration>
-          <source>3.3.0</source>
-          <target>3.3.0</source>
-       </configuration>
-     </plugin>
-                        
-     <plugin>
         <artifactId>maven-release-plugin</artifactId>
         <configuration>
           <autoVersionSubmodules>true</autoVersionSubmodules>
