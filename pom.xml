@@ -14,6 +14,7 @@
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
+    <java.version>11</java.version>
   </properties>
 
   <modules>
@@ -207,14 +208,14 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
-    <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
+    <connection>scm:git:git@github.com:himansh14/maven-project-blueocean.git</connection>
+    <developerConnection>scm:git:git@github.com:himansh14/maven-project-blueocean.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/jleetutorial/maven-project</url>
+    <url>http://github.com/himansh14/maven-project-blueocean</url>
   </scm>
 
   <prerequisites>
-    <maven>3.0.3</maven>
+    <maven>3.6.3</maven>
   </prerequisites>
 
 </project>
