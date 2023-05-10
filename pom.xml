@@ -58,8 +58,7 @@
               </rules>    
             </configuration>
           </execution>
-        </executions>
-       <plugin>    
+        </executions>  
 
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
